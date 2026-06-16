@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1766750877 source:d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<omp.h>
+	"csv_utils.h"
+	"mergesort.h"
+	"openmp_sort.h"
+	"mpi_sort.h"
+	<filesystem>
+
+1766425987 d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\csv_utils.h
+	<vector>
+	<string>
+
+1766512376 d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\mergesort.h
+	<vector>
+
+1766512446 d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\openmp_sort.h
+	<string>
+
+1766662336 d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\mpi_sort.h
+	<string>
+
+1766494166 source:d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\csv_utils.cpp
+	"csv_utils.h"
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1766427045 source:d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\mergesort.cpp
+	"mergesort.h"
+
+1769365398 source:d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\mpi_sort.cpp
+	"mpi_sort.h"
+	"csv_utils.h"
+	"mergesort.h"
+	<mpi.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1766751643 source:d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\openmp_sort.cpp
+	"openmp_sort.h"
+	"csv_utils.h"
+	"mergesort.h"
+	<omp.h>
+	<fstream>
+	<iostream>
+	<vector>
+
+1766487907 d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\utils.h
+
+1766487868 source:d:\7th semester\assignments\parallel and distributed computing\c++ programming\pdc_project\utils.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+
